@@ -173,6 +173,7 @@ Planned upgrades:
 ## 🧑‍💻 Author
 
 Christian Passalacqua
+
 Cloud Security | AWS | Terraform | DevSecOps
 
 ---
