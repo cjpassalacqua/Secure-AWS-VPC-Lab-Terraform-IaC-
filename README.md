@@ -89,21 +89,6 @@ Perfect as a foundation for EC2, EKS, RDS, or additional security automation mod
 
 ---
 
-## 🗂️ Repository Structure
-
-```
-
-tf-secure-vpc/
-│
-├── main.tf          # All VPC, subnets, routing, flow logs, SGs
-├── variables.tf     # Reusable variables for customization
-├── outputs.tf       # Export useful information after deployment
-└── README.md        # Documentation (this file)
-
-````
-
----
-
 ## ⚙️ Deployment Instructions
 
 ### 1. Install Requirements
